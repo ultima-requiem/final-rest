@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alternate Reality Game</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Homepage -->
+  <header>
+    <h1>Welcome to the ARG Experience</h1>
+    <p>Your journey begins here. Solve puzzles, discover clues, and uncover the truth.</p>
+    <a href="puzzle1.html">Start the Game</a>
+  </header>
+
+  <section class="clues">
+    <h2>Clue Board</h2>
+    <p>Look closely. There’s a hidden message in this paragraph...</p>
+    <a href="puzzle2.html">Next clue</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Join the community: <a href="https://twitter.com/ARGgame">Twitter</a> | <a href="https://instagram.com/ARGgame">Instagram</a></p>
+  </footer>
+</body>
+</html>
